@@ -1,0 +1,23 @@
+# Apache_Hadoop---Session-4_1
+Hadoop Configuration and Eco System Assignment
+
+1.	Hadoop is an Open source Data Management software framework with scale-out storage and distributed processing (A)
+
+2.	Which command copies file from local file system to HDFS? Put (B)
+
+3.	Which command copies file from HDFS to local file system? Get (A)
+
+4.	Which command copies file from HDFS to local file system? Cat (A)
+
+5.	What is the command to list all the files? Ls (c)
+
+6.	Which command is used to permanently remove a file? Rm (A)
+
+7.	Who opens the file calling open () method on Filesystem object? Client (D)
+
+8.	HDFS provides scalable, fault tolerant, cost efficient method for Data storage.  (D)
+
+9.	HDFS & YARN are the core components of Hadoop (D)
+
+
+10.	Nosql database is Next Generation Database and are mostly address some of the points: non-relational, distributed. (A)
